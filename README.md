@@ -27,5 +27,4 @@ Himanshu Poonia
 BTech Computer Science Engineering Student  
 
 
-# Note
-This project is built for educational purposes to understand machine learning and NLP concepts.
+
